@@ -1,19 +1,22 @@
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
 UserSettings/
 
 *.csproj
 *.unityproj
 *.sln
 *.user
+*.userprefs
 *.pidb
 *.booproj
 *.svd
 *.pdb
+*.mdb
+*.opendb
+*.VC.db
 
 .DS_Store
 Thumbs.db
